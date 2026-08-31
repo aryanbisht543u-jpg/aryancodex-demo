@@ -1,4 +1,5 @@
 # aryancodex-demo
 This is my first github  repository 
 <br>
-Author-Aryan Bisht
+Author-Aryan zod
+location-vs code
